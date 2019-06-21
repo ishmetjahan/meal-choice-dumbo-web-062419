@@ -9,5 +9,4 @@ describe '#meal_choice' do
 end
 #
 def meal_choice(food="meat")
-  puts food 
 end
