@@ -8,5 +8,5 @@ describe '#meal_choice' do
   end
 end
 #
-def meal_choice(food="meat")
+def meal_choice(arg="meat")
 end
