@@ -9,4 +9,5 @@ describe '#meal_choice' do
 end
 #
 def meal_choice(arg="meat")
+  return arg
 end
